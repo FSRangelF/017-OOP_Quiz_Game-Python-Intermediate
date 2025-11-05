@@ -18,7 +18,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "easy",
         "category": "Entertainment: Comics",
-        "question": "Deadpool&#039;s identity is Slade Wilson.",
+        "question": "Deadpool's identity is Slade Wilson.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -28,7 +28,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "easy",
         "category": "Entertainment: Video Games",
-        "question": "Tony Hawk&#039;s extreme sports videogames revolve around performing professional BMX tricks.",
+        "question": "Tony Hawk's extreme sports videogames revolve around performing professional BMX tricks.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -38,7 +38,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "Entertainment: Video Games",
-        "question": "In the game &quot;Subnautica&quot;, a &quot;Cave Crawler&quot; will attack you.",
+        "question": "In the game 'Subnautica', a 'Cave Crawler' will attack you.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -98,7 +98,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "hard",
         "category": "History",
-        "question": "During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland&#039;s.",
+        "question": "During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland's.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -108,7 +108,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "easy",
         "category": "Entertainment: Video Games",
-        "question": "In RuneScape, one must complete the &quot;Dragon Slayer&quot; quest before equipping Rune Platelegs.",
+        "question": "In RuneScape, one must complete the 'Dragon Slayer' quest before equipping Rune Platelegs.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -128,7 +128,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "Entertainment: Music",
-        "question": "&quot;Twenty One Pilots&quot; made the song &quot;The Motion&quot; featuring Sampha.",
+        "question": "'Twenty One Pilots' made the song 'The Motion' featuring Sampha.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -148,7 +148,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "General Knowledge",
-        "question": "The French word to travel is &quot;Travail&quot;",
+        "question": "The French word to travel is 'Travail'",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -158,7 +158,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "hard",
         "category": "Politics",
-        "question": "Nazi Germany surrendered on Harry Truman&#039;s birthday while he was president.",
+        "question": "Nazi Germany surrendered on Harry Truman's birthday while he was president.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -188,7 +188,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "History",
-        "question": "Assyrian king Sennacherib&#039;s destruction of Babylon in 689 BCE was viewed as a triumph by other Assyrian citizens.",
+        "question": "Assyrian king Sennacherib's destruction of Babylon in 689 BCE was viewed as a triumph by other Assyrian citizens.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -208,7 +208,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "General Knowledge",
-        "question": "The French word for &quot;glass&quot; is &quot;glace&quot;.",
+        "question": "The French word for 'glass' is 'glace'.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -218,7 +218,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "General Knowledge",
-        "question": "The average woman is 5 inches \/ 13 centimeters shorter than the average man.",
+        "question": "The average woman is 5 inches or 13 centimeters shorter than the average man.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -238,7 +238,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "easy",
         "category": "Entertainment: Video Games",
-        "question": "The 2005 video game &quot;Call of Duty 2: Big Red One&quot; is not available on PC.",
+        "question": "The 2005 video game 'Call of Duty 2: Big Red One' is not available on PC.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -248,7 +248,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "Entertainment: Video Games",
-        "question": "In &quot;Resident Evil&quot;, only Chris has access to the grenade launcher.",
+        "question": "In 'Resident Evil', only Chris has access to the grenade launcher.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -258,7 +258,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "easy",
         "category": "Entertainment: Video Games",
-        "question": "In &quot;Mario Kart 64&quot;, Waluigi is a playable character.",
+        "question": "In 'Mario Kart 64', Waluigi is a playable character.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -308,7 +308,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "easy",
         "category": "Entertainment: Video Games",
-        "question": "In Team Fortress 2, the weapon &quot;Your Eternal Reward&quot; is a reference to the 1992 film Aladdin.",
+        "question": "In Team Fortress 2, the weapon 'Your Eternal Reward' is a reference to the 1992 film Aladdin.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -328,7 +328,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "Entertainment: Video Games",
-        "question": "In the game &quot;Until Dawn&quot; Emily is the only playable character who can be killed by another playable character directly.",
+        "question": "In the game 'Until Dawn' Emily is the only playable character who can be killed by another playable character directly.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -338,7 +338,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "hard",
         "category": "Entertainment: Japanese Anime &amp; Manga",
-        "question": "The character Plum from &quot;No Game No Life&quot; is a girl.",
+        "question": "The character Plum from 'No Game No Life' is a girl.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -368,7 +368,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "General Knowledge",
-        "question": "A pencil&#039;s lead is typically made from graphite, not lead",
+        "question": "A pencil's lead is typically made from graphite, not lead",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -398,7 +398,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "Entertainment: Video Games",
-        "question": "The Ace Attorney trilogy was suppose to end with &quot;Phoenix Wright: Ace Attorney &minus; Trials and Tribulations&quot; as its final game.",
+        "question": "The Ace Attorney trilogy was suppose to end with 'Phoenix Wright: Ace Attorney &minus; Trials and Tribulations' as its final game.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -418,7 +418,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "Science &amp; Nature",
-        "question": "The &quot;Gympie Stinger&quot; is the deadliest plant in the world.",
+        "question": "The 'Gympie Stinger' is the deadliest plant in the world.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -428,7 +428,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "Entertainment: Video Games",
-        "question": "As of February 2019, the &quot;Donkey Kong Country&quot; series only had released five games (not counting remakes or ports).",
+        "question": "As of February 2019, the 'Donkey Kong Country' series only had released five games (not counting remakes or ports).",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -448,7 +448,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "easy",
         "category": "Geography",
-        "question": "There is an island in Japan called kunoshima, A.K.A. &quot;Rabbit Island&quot;, so named because of it&#039;s huge population of rabbits.",
+        "question": "There is an island in Japan called kunoshima, A.K.A. 'Rabbit Island', so named because of it's huge population of rabbits.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -478,7 +478,7 @@ question_data = [
         "type": "boolean",
         "difficulty": "medium",
         "category": "Animals",
-        "question": "&quot;Kamea,&quot; the Gilbertese Islander word for dog, is derived from the English phrase &quot;Come here!&quot;",
+        "question": "'Kamea,' the Gilbertese Islander word for dog, is derived from the English phrase 'Come here!'",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
